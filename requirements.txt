@@ -1,0 +1,7 @@
+﻿# 建議 Python 3.12；模型相依套件版本與訓練環境一致。
+streamlit==1.66.1
+scikit-learn==1.9.1
+pandas==3.0.6
+numpy==2.5.4
+joblib==1.6.0
+
